@@ -1,0 +1,52 @@
+{
+    // Vim setting
+    "vim.disableAnnoyingNeovimMessage": true,
+
+    // Editor font size
+    "editor.fontSize": 16,
+
+    // Sync Setting
+    "sync.gist": "38d3294e2e7e69561d9701ba90a29a49",
+    "sync.lastUpload": "2017-09-19T05:58:49.582Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "2017-11-13T01:45:37.279Z",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "One Dark Pro",
+
+    // Use git bash on windows
+    "terminal.integrated.shell.windows": "C:/Program Files/Git/bin/bash.exe",
+
+    // File header comment template
+    "fileHeaderCommentHelper.languageConfigs": {
+        "language_javascript": {
+            "template": [
+                "/*",
+                " * Project: $(projectName)",
+                " * File: $(currentFile)",
+                " */"
+            ]
+        }
+    },
+
+    "todohighlight.toggleURI": true,
+    "files.associations": {
+        "*.dot": "dot"
+    },
+    "typescript.check.tscVersion": false,
+    "workbench.startupEditor": "welcomePage",
+
+    "csharp.suppressDotnetInstallWarning": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "git.enableSmartCommit": true,
+}

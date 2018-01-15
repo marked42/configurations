@@ -1,0 +1,32 @@
+VISUAL STUDIO CODE SETTINGS SYNC 
+Version: 2.8.2
+
+Download Summary
+
+--------------------
+GITHUB TOKEN: 920a58a6a0a0ec77cc4d621fc8cccc848c2e15b2
+GITHUB GIST: 38d3294e2e7e69561d9701ba90a29a49
+GITHUB GIST TYPE: Secret
+
+--------------------
+
+If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
+
+
+Files Download.
+
+extensions.json
+keybindings.json
+locale.json
+settings.json
+vsicons.settings.json
+
+EXTENSIONS REMOVED :
+
+vscode-styled-components - Version :0.0.10
+
+
+EXTENSIONS ADDED :
+
+prettier-vscode - Version :0.24.0
+java - Version :0.14.0
